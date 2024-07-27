@@ -1,0 +1,17 @@
+List<String> exploreImages = [
+  'assets/img/malik-photo.JPG',
+  'assets/img/mountain-fogg.jpg',
+  'assets/img/road-leaves.jpg',
+  'assets/img/js-explore-ig.PNG',
+  'assets/img/under-sea.jpg',
+  'assets/img/code-explore-ig.PNG',
+  'assets/img/pens-logo-1.png',
+  'assets/img/pens-logo-3.png',
+  'assets/img/town.jpg',
+  'assets/img/pens-logo-2.png',
+  'assets/img/pens-logo-4.png',
+  'assets/img/waterfall.jpg',
+  'assets/img/mountain-fogg.jpg',
+  'assets/img/road-leaves.jpg',
+  'assets/img/under-sea.jpg',
+];
